@@ -1,1 +1,5 @@
-Background_of_Main_Page
+
+body {
+background-image:url('Snow Loop.webp');
+background-size: cover;
+background-repeat:repeat; }
