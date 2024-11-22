@@ -1,11 +1,18 @@
 
 body{
-background-image:url('Snow Loop.webp');
+    background-color: aquamarine;
+background-image: url(MainPageBlurWallpaper.gif);
 background-size: cover;
-background-repeat:repeat; }
+background-position: center top;
+}
 
 h1{
     color: bisque;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 80px;
+}
+
+.button {
+    color: aqua;
+    background-color: blueviolet;
 }
