@@ -1,6 +1,7 @@
 
 body{
     background-image: url(Snow Loop.webp);
+    background-size: contain;
     background-color: aquamarine;
 
     background-size:cover;
